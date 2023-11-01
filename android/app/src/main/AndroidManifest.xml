@@ -2,7 +2,7 @@
     <application
         android:label="al_quran_app"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/al_quran">
         <activity
             android:name=".MainActivity"
             android:exported="true"
